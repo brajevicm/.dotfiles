@@ -1,0 +1,14 @@
+[DownloadDialog Settings]
+Height 768=502
+Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/background-01.jpg,file:$HOME/Pictures/background-01-blur.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[MainWindow]
+Height 768=735
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVAAAALfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1360

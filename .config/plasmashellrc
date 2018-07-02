@@ -1,0 +1,34 @@
+[DownloadDialog Settings]
+Height 768=512
+Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=background-01.jpg,file:$HOME/Pictures/background-01.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[KPropertiesDialog]
+Height 768=460
+Width 1366=440
+
+[Notification Messages]
+ConfirmTrash=true
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_trello.desktop,4 services_termite.desktop,16 services_systemsettings.desktop,3 services_kvantummanager.desktop,6 services_firefox-developer-edition.desktop,2 services_org.kde.konsole.desktop,2 services_kwincompositing.desktop,1 services_Mailspring.desktop,2 services_GitKraken.desktop,8 services_kitty.desktop,2 services_org.kde.dolphin.desktop,10 services_kcm_touchpad.desktop,1 services_dropbox.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelVisibility=0
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=26
+
+[PlasmaViews][Panel 2][Vertical768]
+thickness=34
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

@@ -1,0 +1,11 @@
+[DownloadDialog Settings]
+Height 768=502
+Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=background-01-blur.jpg,file:$HOME/Pictures/background-01-blur.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[KPropertiesDialog]
+Height 768=456
+Width 1366=435

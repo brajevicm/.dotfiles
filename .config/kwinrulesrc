@@ -1,0 +1,20 @@
+[1]
+Description=Application settings for termite
+clientmachine=thinkpad
+clientmachinematch=0
+noborder=true
+noborderrule=2
+wmclass=termite
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Unnamed entry
+noborder=true
+noborderrule=2
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
+
+[General]
+count=2
